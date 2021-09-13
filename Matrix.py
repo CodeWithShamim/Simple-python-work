@@ -14,10 +14,10 @@ matrix[1][3] = 100
 
 #print matrix....
 num = matrix[1][3]
-print(num)
+print("value",num)
     
 
-#list print on column using for loop......
+#Matrix value print using nested for loop......
 for row in matrix:
     for column in row:
         print(column)
