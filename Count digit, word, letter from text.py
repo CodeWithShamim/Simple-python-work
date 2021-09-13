@@ -1,3 +1,5 @@
+#Count digit, word, letter from text......
+
 
 value = input("Enter your text and number : ")
 

@@ -1,3 +1,4 @@
+#Just simple guessing game...
 from random import randint
 
 
