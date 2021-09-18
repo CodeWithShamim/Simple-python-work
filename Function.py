@@ -78,9 +78,9 @@ addition(10, 30, 40, 59, 57, 37, 58, 37)
 def addition(**number):
    return number
 
-s = addition(name="shaim", id=100, CGPA=4.00)
+value = addition(name="shaim", id=100, CGPA=4.00)
 #print value(Dictionary)
-print(s)
+print(value)
 
 
 
